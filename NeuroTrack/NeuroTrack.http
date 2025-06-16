@@ -1,0 +1,6 @@
+@NeuroTrack_HostAddress = http://localhost:5118
+
+GET {{NeuroTrack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
